@@ -1,4 +1,4 @@
-def my_split(value="", separate="", max = -1):
+def my_split(value: str, separate: str, max = -1):
     data = []
 
     # recursive function for check separate in enter text
